@@ -1,0 +1,392 @@
+// ContactListMerge
+
+.app-ContactListMerge-AddContactLink {
+   color: white;
+}
+.app-ContactListMerge-AddCalenderLink {
+  color: white;
+}
+
+
+.app-ContactListMerge-HomeLink {
+  color: white;
+}
+.app-ContactListMerge-DriveLink {
+  color: white;
+}
+.app-ContactListMerge-ViewUsersLink {
+  color: white;
+}
+.app-ContactListMerge-ViewContactLink {
+  color: white;
+}
+
+.app-ContactListMerge-Table1 {  
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+//------------------------------------------------------------------------------------------
+// ContactList
+
+.app-ContactList-AddContactLink {
+   color: white;
+}
+.app-ContactList-AddCalenderLink {
+  color: white;
+}
+
+
+.app-ContactList-HomeLink {
+  color: white;
+}
+.app-ContactList-DriveLink {
+  color: white;
+}
+.app-ContactList-ViewUsersLink {
+  color: white;
+}
+.app-ContactList-ViewContactLink {
+  color: white;
+}
+
+.app-ContactList-TypeLabel {
+  color: black;
+}
+.app-ContactList-UserCard1 {  
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+
+/* Should hide the scroll wheel */
+/*.app-ContactList-Container {
+  overflow-y: hidden !important;
+}*/
+
+
+//------------------------------------------------------------------------------------------
+// AddNewContact
+
+.app-AddNewContact1-FirstNameField-Input {
+  color: white;
+}
+.app-AddNewContact1-FirstNameField-Label {
+  color: white;
+}
+
+.app-AddNewContact1-LastNameField-Input {
+  color: white;
+}
+
+.app-AddNewContact1-LastNameField-Label {
+  color: white;
+}
+
+.app-AddNewContact1-PhoneNumberField-Input {
+  color: white;
+}
+.app-AddNewContact1-PhoneNumberField-Label {
+  color: white;
+}
+
+.app-AddNewContact1-EmailField-Input {
+  color: white;
+}
+.app-AddNewContact1-EmailField-Label {
+  color: white;
+}
+
+.app-AddNewContact1-TypeField-Arrow {
+  color: white;
+}
+.app-AddNewContact1-TypeField-List {
+  color: white;
+}
+.app-AddNewContact1-TypeField-Label {
+  color: white;
+}
+.app-AddNewContact1-TypeField-Value {
+  color: white;
+}
+.app-AddNewContact1-TypeField-Button {
+  color: white;
+}
+
+.app-AddNewContact1-GenderField-Label {
+  color: white;
+}
+.app-AddNewContact1-GenderField-Value {
+  color: white;
+}
+
+.app-AddNewContact1-AgeField-Input {
+  color: white;
+}
+
+.app-AddNewContact1-AgeField-Label {
+  color: white;
+}
+
+.app-AddNewContact1-MartialField-Label {
+  color: white;
+}
+
+.app-AddNewContact1-MartialField-Value {
+  color: white;
+}
+
+.app-AddNewContact1-StreetAddressField-Input {
+  color: white;
+}
+
+.app-AddNewContact1-StreetAddressField-Label {
+  color: white;
+}
+
+.app-AddNewContact1-DOBField-Label {
+  color: white;
+}
+
+.app-AddNewContact1-DOBField-Input {
+  color: white;
+}
+
+.app-AddNewContact1-LawFirmField-Label {
+  color: white;
+}
+
+.app-AddNewContact1-LawFirmField-Input {
+  color: white;
+}
+
+
+.app-AddNewContact1-LawWebSite-Label {
+  color: white;
+}
+
+.app-AddNewContact1-LawWebSite-Input {
+  color: white;
+}
+
+.app-AddNewContact1-WorkPhoneField-Label {
+  color: white;
+}
+
+.app-AddNewContact1-WorkPhoneField-Input {
+  color: white;
+}
+
+.app-AddNewContact1-MobilePhoneField-Label {
+  color: white;
+}
+
+.app-AddNewContact1-MobilePhoneField-Input {
+  color: white;
+}
+
+.app-AddNewContact1-WorkAddressField-Label {
+  color: white;
+}
+
+.app-AddNewContact1-WorkAddressField-Input {
+  color: white;
+}
+
+.app-AddNewContact1-SimpleButton1 {
+  color: white;
+}
+
+
+//------------------------------------------------------------------------------------------
+// AddNewMergeContact
+
+.app-AddNewMergeContact-FirstNameField-Input {
+  color: white;
+}
+.app-AddNewMergeContact-FirstNameField-Label {
+  color: white;
+}
+
+.app-AddNewMergeContact-LastNameField-Input {
+  color: white;
+}
+
+.app-AddNewMergeContact-LastNameField-Label {
+  color: white;
+}
+
+.app-AddNewMergeContact-PhoneNumberField-Input {
+  color: white;
+}
+.app-AddNewMergeContact-PhoneNumberField-Label {
+  color: white;
+}
+
+.app-AddNewMergeContact-EmailField-Input {
+  color: white;
+}
+.app-AddNewMergeContact-EmailField-Label {
+  color: white;
+}
+
+.app-AddNewMergeContact-TypeField-Arrow {
+  color: white;
+}
+.app-AddNewMergeContact-TypeField-List {
+  color: white;
+}
+.app-AddNewMergeContact-TypeField-Label {
+  color: white;
+}
+.app-AddNewMergeContact-TypeField-Value {
+  color: white;
+}
+.app-AddNewMergeContact-TypeField-Button {
+  color: white;
+}
+
+.app-AddNewMergeContact-GenderField-Label {
+  color: white;
+}
+.app-AddNewMergeContact-GenderField-Value {
+  color: white;
+}
+
+.app-AddNewMergeContact-AgeField-Input {
+  color: white;
+}
+
+.app-AddNewMergeContact-AgeField-Label {
+  color: white;
+}
+
+.app-AddNewMergeContact-MartialField-Label {
+  color: white;
+}
+
+.app-AddNewMergeContact-MartialField-Value {
+  color: white;
+}
+
+.app-AddNewMergeContact-StreetAddressField-Input {
+  color: white;
+}
+
+.app-AddNewMergeContact-StreetAddressField-Label {
+  color: white;
+}
+
+.app-AddNewMergeContact-DOBField-Label {
+  color: white;
+}
+
+.app-AddNewMergeContact-DOBField-Input {
+  color: white;
+}
+
+.app-AddNewMergeContact-LawFirmField-Label {
+  color: white;
+}
+
+.app-AddNewMergeContact-LawFirmField-Input {
+  color: white;
+}
+
+
+.app-AddNewMergeContact-LawWebSite-Label {
+  color: white;
+}
+
+.app-AddNewMergeContact-LawWebSite-Input {
+  color: white;
+}
+
+.app-AddNewMergeContact-WorkPhoneField-Label {
+  color: white;
+}
+
+.app-AddNewMergeContact-WorkPhoneField-Input {
+  color: white;
+}
+
+.app-AddNewMergeContact-MobilePhoneField-Label {
+  color: white;
+}
+
+.app-AddNewMergeContact-MobilePhoneField-Input {
+  color: white;
+}
+
+.app-AddNewMergeContact-WorkAddressField-Label {
+  color: white;
+}
+
+.app-AddNewMergeContact-WorkAddressField-Input {
+  color: white;
+}
+
+.app-AddNewMergeContact-SimpleButton1 {
+  color: white;
+}
+
+
+/* Background color of uneditable fields */
+.app-AddNewMergeContact-FirstNameField {
+  background-color: gray;
+}
+
+.app-AddNewMergeContact-LastNameField {
+  background-color: gray;
+}
+
+.app-AddNewMergeContact-PhoneNumberField {
+  background-color: gray;
+}
+
+.app-AddNewMergeContact-EmailField {
+  background-color: gray;
+}
+
+
+
+//------------------------------------------------------------------------------------------
+// CoyeLawUsers
+
+.app-CoyeLawUsers-AddContactLink {
+   color: white;
+}
+.app-CoyeLawUsers-AddCalenderLink {
+  color: white;
+}
+
+
+.app-CoyeLawUsers-HomeLink {
+  color: white;
+}
+.app-CoyeLawUsers-DriveLink {
+  color: white;
+}
+.app-CoyeLawUsers-ViewUsersLink {
+  color: white;
+}
+.app-CoyeLawUsers-ViewContactLink {
+  color: white;
+}
+
+.app-CoyeLawUsers-UserCard {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+
+
+
+
+
